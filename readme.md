@@ -2,7 +2,10 @@
 
 ## Project Overview
 This project analyzes Netflix movies and series using ratings from IMDb, Rotten Tomatoes, and Metacritic to understand audience and critic preferences.
+
+## Dashboard Preview
 ![Netflix Dashboard](netflix_dashboard.png)
+
 ## Dataset
 - 15,480 Netflix titles
 - Ratings from IMDb (audience), Rotten Tomatoes, and Metacritic (critics)
@@ -29,6 +32,3 @@ This project analyzes Netflix movies and series using ratings from IMDb, Rotten 
 ## Conclusion
 The analysis highlights differences between audience and critic perception and shows that long-form content performs better on Netflix.
 
-## Dashboard Preview
-
-![Netflix Dashboard](netflix_dashboard.png)
