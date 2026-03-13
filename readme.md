@@ -27,3 +27,7 @@ This project analyzes Netflix movies and series using ratings from IMDb, Rotten 
 
 ## Conclusion
 The analysis highlights differences between audience and critic perception and shows that long-form content performs better on Netflix.
+
+## Dashboard Preview
+
+![Netflix Dashboard](dashboard/netflix_dashboard.png)
