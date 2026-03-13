@@ -11,6 +11,7 @@ This project analyzes Netflix movies and series using ratings from IMDb, Rotten 
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook
 - GitHub
+- sql
 
 ## Key Analysis Performed
 - Data cleaning and preprocessing
