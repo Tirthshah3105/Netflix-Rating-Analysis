@@ -30,4 +30,4 @@ The analysis highlights differences between audience and critic perception and s
 
 ## Dashboard Preview
 
-![Netflix Dashboard](dashboard/netflix_dashboard.png)
+![Netflix Dashboard](netflix_dashboard.png)
